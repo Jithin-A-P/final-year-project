@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=DIS1-1
+Removed Pin From Net: NetName=+5 Pin=DIS1-2
+Removed Pin From Net: NetName=SCL Pin=DIS1-3
+Removed Pin From Net: NetName=SDA Pin=DIS1-4
+Removed Member From Class: ClassName=Sheet2 Member=DIS1
+Added Component: Designator=DIS?(OLED12864I2C)
+Added Pin To Net: NetName=GND Pin=DIS?-1
+Added Pin To Net: NetName=+5 Pin=DIS?-2
+Added Pin To Net: NetName=SCL Pin=DIS?-3
+Added Pin To Net: NetName=SDA Pin=DIS?-4

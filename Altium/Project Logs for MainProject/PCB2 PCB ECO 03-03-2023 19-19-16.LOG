@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=DIS? NewDesignator=DIS1
+Added Member To Class: ClassName=Sheet2 Member=Component DIS1 OLED Display

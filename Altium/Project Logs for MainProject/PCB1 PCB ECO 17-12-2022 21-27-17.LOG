@@ -1,0 +1,10 @@
+Added Component: Designator=LCD(ILI9341)
+Added Pin To Net: NetName=+5 Pin=LCD-0
+Added Pin To Net: NetName=GND Pin=LCD-1
+Added Pin To Net: NetName=CS Pin=LCD-2
+Added Pin To Net: NetName=TFT_RST Pin=LCD-3
+Added Pin To Net: NetName=TFT_RS Pin=LCD-4
+Added Pin To Net: NetName=MOSI Pin=LCD-5
+Added Pin To Net: NetName=CLK Pin=LCD-6
+Added Pin To Net: NetName=+3V3 Pin=LCD-7
+Added Member To Class: ClassName=Sheet1 Member=Component LCD ILI9341 LCD TFT Display
