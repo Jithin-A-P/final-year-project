@@ -26,7 +26,7 @@ def init_cam():
     picam2 = Picamera2()
     camera_config = picam2.create_still_configuration(main={"size": (1920, 1080)}, lores={"size": (320, 240)}, display="lores")
     picam2.configure(camera_config)
-    if len(sys.argv) > 0:
+    if len(sys.argv) > 1:
         if sys.argv[1] == '--show-preview':
             picam2.start_preview(Preview.QTGL)
     picam2.start()
